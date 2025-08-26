@@ -5,4 +5,4 @@ Flask>=1.0.3
 gunicorn==22.0.0
 idna==3.7
 itsdangerous==2.1.2
-requests==2.32.2
+requests==2.32.4
